@@ -1,0 +1,12 @@
+C:\Users\EUGENES\source\repos\ASPCoreApplications\WaterRationingBackend\WaterRationingBackend.Entities\bin\Debug\netcoreapp3.1\WaterRationingBackend.Entities.deps.json
+C:\Users\EUGENES\source\repos\ASPCoreApplications\WaterRationingBackend\WaterRationingBackend.Entities\bin\Debug\netcoreapp3.1\WaterRationingBackend.Entities.dll
+C:\Users\EUGENES\source\repos\ASPCoreApplications\WaterRationingBackend\WaterRationingBackend.Entities\bin\Debug\netcoreapp3.1\WaterRationingBackend.Entities.pdb
+C:\Users\EUGENES\source\repos\ASPCoreApplications\WaterRationingBackend\WaterRationingBackend.Entities\obj\Debug\netcoreapp3.1\WaterRationingBackend.Entities.AssemblyInfoInputs.cache
+C:\Users\EUGENES\source\repos\ASPCoreApplications\WaterRationingBackend\WaterRationingBackend.Entities\obj\Debug\netcoreapp3.1\WaterRationingBackend.Entities.AssemblyInfo.cs
+C:\Users\EUGENES\source\repos\ASPCoreApplications\WaterRationingBackend\WaterRationingBackend.Entities\obj\Debug\netcoreapp3.1\WaterRationingBackend.Entities.csproj.CoreCompileInputs.cache
+C:\Users\EUGENES\source\repos\ASPCoreApplications\WaterRationingBackend\WaterRationingBackend.Entities\obj\Debug\netcoreapp3.1\WaterRationingBackend.Entities.dll
+C:\Users\EUGENES\source\repos\ASPCoreApplications\WaterRationingBackend\WaterRationingBackend.Entities\obj\Debug\netcoreapp3.1\WaterRationingBackend.Entities.pdb
+C:\Users\EUGENES\source\repos\ASPCoreApplications\WaterRationingBackend\WaterRationingBackend.Entities\bin\Debug\netcoreapp3.1\WaterRationingBackend.Entities.runtimeconfig.json
+C:\Users\EUGENES\source\repos\ASPCoreApplications\WaterRationingBackend\WaterRationingBackend.Entities\bin\Debug\netcoreapp3.1\WaterRationingBackend.Entities.runtimeconfig.dev.json
+C:\Users\EUGENES\source\repos\ASPCoreApplications\WaterRationingBackend\WaterRationingBackend.Entities\obj\Debug\netcoreapp3.1\WaterRationingBackend.Entities.csproj.AssemblyReference.cache
+C:\Users\EUGENES\source\repos\ASPCoreApplications\WaterRationingBackend\WaterRationingBackend.Entities\obj\Debug\netcoreapp3.1\WaterRationingBackend.Entities.genruntimeconfig.cache

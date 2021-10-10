@@ -1,0 +1,36 @@
+D:\ProjectX\C#\Visual Studio 2019\ClassLibrary\Zonke\ZonkeWebServer\Helper\bin\Debug\netcoreapp3.1\Helper.deps.json
+D:\ProjectX\C#\Visual Studio 2019\ClassLibrary\Zonke\ZonkeWebServer\Helper\bin\Debug\netcoreapp3.1\Helper.dll
+D:\ProjectX\C#\Visual Studio 2019\ClassLibrary\Zonke\ZonkeWebServer\Helper\bin\Debug\netcoreapp3.1\Helper.pdb
+D:\ProjectX\C#\Visual Studio 2019\ClassLibrary\Zonke\ZonkeWebServer\Helper\obj\Debug\netcoreapp3.1\Helper.AssemblyInfoInputs.cache
+D:\ProjectX\C#\Visual Studio 2019\ClassLibrary\Zonke\ZonkeWebServer\Helper\obj\Debug\netcoreapp3.1\Helper.AssemblyInfo.cs
+D:\ProjectX\C#\Visual Studio 2019\ClassLibrary\Zonke\ZonkeWebServer\Helper\obj\Debug\netcoreapp3.1\Helper.csproj.CoreCompileInputs.cache
+D:\ProjectX\C#\Visual Studio 2019\ClassLibrary\Zonke\ZonkeWebServer\Helper\obj\Debug\netcoreapp3.1\Helper.dll
+D:\ProjectX\C#\Visual Studio 2019\ClassLibrary\Zonke\ZonkeWebServer\Helper\obj\Debug\netcoreapp3.1\Helper.pdb
+D:\ProjectX\C#\Visual Studio 2019\ClassLibrary\Zonke\ZonkeWebServer\Helper\obj\Debug\netcoreapp3.1\Helper.csproj.AssemblyReference.cache
+C:\Users\EUGENES\source\repos\ASPCoreApplications\CBBackendSample\Helper\bin\Debug\netcoreapp3.1\Helper.deps.json
+C:\Users\EUGENES\source\repos\ASPCoreApplications\CBBackendSample\Helper\bin\Debug\netcoreapp3.1\Helper.dll
+C:\Users\EUGENES\source\repos\ASPCoreApplications\CBBackendSample\Helper\bin\Debug\netcoreapp3.1\Helper.pdb
+C:\Users\EUGENES\source\repos\ASPCoreApplications\CBBackendSample\Helper\obj\Debug\netcoreapp3.1\Helper.csproj.AssemblyReference.cache
+C:\Users\EUGENES\source\repos\ASPCoreApplications\CBBackendSample\Helper\obj\Debug\netcoreapp3.1\Helper.AssemblyInfoInputs.cache
+C:\Users\EUGENES\source\repos\ASPCoreApplications\CBBackendSample\Helper\obj\Debug\netcoreapp3.1\Helper.AssemblyInfo.cs
+C:\Users\EUGENES\source\repos\ASPCoreApplications\CBBackendSample\Helper\obj\Debug\netcoreapp3.1\Helper.csproj.CoreCompileInputs.cache
+C:\Users\EUGENES\source\repos\ASPCoreApplications\CBBackendSample\Helper\obj\Debug\netcoreapp3.1\Helper.dll
+C:\Users\EUGENES\source\repos\ASPCoreApplications\CBBackendSample\Helper\obj\Debug\netcoreapp3.1\Helper.pdb
+C:\Users\EUGENES\source\repos\ASPCoreApplications\CBBackendSample\Helper\bin\Debug\netcoreapp3.1\WebServerEntities.dll
+C:\Users\EUGENES\source\repos\ASPCoreApplications\CBBackendSample\Helper\bin\Debug\netcoreapp3.1\WebServerEntities.pdb
+C:\Users\EUGENES\source\repos\ASPCoreApplications\CBBackendSample\Helper\obj\Debug\netcoreapp3.1\Helper.csproj.CopyComplete
+C:\Users\EUGENES\source\repos\ASPCoreApplications\WaterRationingBackend\Helper\bin\Debug\netcoreapp3.1\Helper.deps.json
+C:\Users\EUGENES\source\repos\ASPCoreApplications\WaterRationingBackend\Helper\bin\Debug\netcoreapp3.1\Helper.dll
+C:\Users\EUGENES\source\repos\ASPCoreApplications\WaterRationingBackend\Helper\bin\Debug\netcoreapp3.1\Helper.pdb
+C:\Users\EUGENES\source\repos\ASPCoreApplications\WaterRationingBackend\Helper\bin\Debug\netcoreapp3.1\WaterRationingBackend.Entities.dll
+C:\Users\EUGENES\source\repos\ASPCoreApplications\WaterRationingBackend\Helper\bin\Debug\netcoreapp3.1\WaterRationingBackend.Entities.pdb
+C:\Users\EUGENES\source\repos\ASPCoreApplications\WaterRationingBackend\Helper\obj\Debug\netcoreapp3.1\Helper.csproj.AssemblyReference.cache
+C:\Users\EUGENES\source\repos\ASPCoreApplications\WaterRationingBackend\Helper\obj\Debug\netcoreapp3.1\Helper.AssemblyInfoInputs.cache
+C:\Users\EUGENES\source\repos\ASPCoreApplications\WaterRationingBackend\Helper\obj\Debug\netcoreapp3.1\Helper.AssemblyInfo.cs
+C:\Users\EUGENES\source\repos\ASPCoreApplications\WaterRationingBackend\Helper\obj\Debug\netcoreapp3.1\Helper.csproj.CoreCompileInputs.cache
+C:\Users\EUGENES\source\repos\ASPCoreApplications\WaterRationingBackend\Helper\obj\Debug\netcoreapp3.1\Helper.csproj.CopyComplete
+C:\Users\EUGENES\source\repos\ASPCoreApplications\WaterRationingBackend\Helper\obj\Debug\netcoreapp3.1\Helper.dll
+C:\Users\EUGENES\source\repos\ASPCoreApplications\WaterRationingBackend\Helper\obj\Debug\netcoreapp3.1\Helper.pdb
+C:\Users\EUGENES\source\repos\ASPCoreApplications\WaterRationingBackend\Helper\bin\Debug\netcoreapp3.1\Helper.runtimeconfig.json
+C:\Users\EUGENES\source\repos\ASPCoreApplications\WaterRationingBackend\Helper\bin\Debug\netcoreapp3.1\Helper.runtimeconfig.dev.json
+C:\Users\EUGENES\source\repos\ASPCoreApplications\WaterRationingBackend\Helper\obj\Debug\netcoreapp3.1\Helper.genruntimeconfig.cache

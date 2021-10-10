@@ -1,0 +1,15 @@
+C:\Users\EUGENES\source\repos\ASPCoreApplications\WaterRationingBackend\WaterRationingBackend.DataAccess\bin\Debug\netcoreapp3.1\WaterRationingBackend.DataAccess.deps.json
+C:\Users\EUGENES\source\repos\ASPCoreApplications\WaterRationingBackend\WaterRationingBackend.DataAccess\bin\Debug\netcoreapp3.1\WaterRationingBackend.DataAccess.dll
+C:\Users\EUGENES\source\repos\ASPCoreApplications\WaterRationingBackend\WaterRationingBackend.DataAccess\bin\Debug\netcoreapp3.1\WaterRationingBackend.DataAccess.pdb
+C:\Users\EUGENES\source\repos\ASPCoreApplications\WaterRationingBackend\WaterRationingBackend.DataAccess\obj\Debug\netcoreapp3.1\WaterRationingBackend.DataAccess.csproj.AssemblyReference.cache
+C:\Users\EUGENES\source\repos\ASPCoreApplications\WaterRationingBackend\WaterRationingBackend.DataAccess\obj\Debug\netcoreapp3.1\WaterRationingBackend.DataAccess.AssemblyInfoInputs.cache
+C:\Users\EUGENES\source\repos\ASPCoreApplications\WaterRationingBackend\WaterRationingBackend.DataAccess\obj\Debug\netcoreapp3.1\WaterRationingBackend.DataAccess.AssemblyInfo.cs
+C:\Users\EUGENES\source\repos\ASPCoreApplications\WaterRationingBackend\WaterRationingBackend.DataAccess\obj\Debug\netcoreapp3.1\WaterRationingBackend.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\EUGENES\source\repos\ASPCoreApplications\WaterRationingBackend\WaterRationingBackend.DataAccess\obj\Debug\netcoreapp3.1\WaterRationingBackend.DataAccess.dll
+C:\Users\EUGENES\source\repos\ASPCoreApplications\WaterRationingBackend\WaterRationingBackend.DataAccess\obj\Debug\netcoreapp3.1\WaterRationingBackend.DataAccess.pdb
+C:\Users\EUGENES\source\repos\ASPCoreApplications\WaterRationingBackend\WaterRationingBackend.DataAccess\bin\Debug\netcoreapp3.1\WaterRationingBackend.Entities.dll
+C:\Users\EUGENES\source\repos\ASPCoreApplications\WaterRationingBackend\WaterRationingBackend.DataAccess\bin\Debug\netcoreapp3.1\WaterRationingBackend.Entities.pdb
+C:\Users\EUGENES\source\repos\ASPCoreApplications\WaterRationingBackend\WaterRationingBackend.DataAccess\obj\Debug\netcoreapp3.1\WaterRationingBackend.DataAccess.csproj.CopyComplete
+C:\Users\EUGENES\source\repos\ASPCoreApplications\WaterRationingBackend\WaterRationingBackend.DataAccess\bin\Debug\netcoreapp3.1\WaterRationingBackend.DataAccess.runtimeconfig.json
+C:\Users\EUGENES\source\repos\ASPCoreApplications\WaterRationingBackend\WaterRationingBackend.DataAccess\bin\Debug\netcoreapp3.1\WaterRationingBackend.DataAccess.runtimeconfig.dev.json
+C:\Users\EUGENES\source\repos\ASPCoreApplications\WaterRationingBackend\WaterRationingBackend.DataAccess\obj\Debug\netcoreapp3.1\WaterRationingBackend.DataAccess.genruntimeconfig.cache
