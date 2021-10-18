@@ -1022,23 +1022,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\EUGENES\\.nuget\\packages\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "C:\\Users\\trutsito\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\EUGENES\\source\\repos\\ASPCoreApplications\\WaterRationingBackend\\WaterRationingBackend.Entities\\WaterRationingBackend.Entities.csproj",
+      "projectUniqueName": "C:\\MyFiles\\Code\\AspNet\\WaterRationingBackend\\WaterRationingBackend.Entities\\WaterRationingBackend.Entities.csproj",
       "projectName": "WaterRationingBackend.Entities",
-      "projectPath": "C:\\Users\\EUGENES\\source\\repos\\ASPCoreApplications\\WaterRationingBackend\\WaterRationingBackend.Entities\\WaterRationingBackend.Entities.csproj",
-      "packagesPath": "C:\\Users\\EUGENES\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\EUGENES\\source\\repos\\ASPCoreApplications\\WaterRationingBackend\\WaterRationingBackend.Entities\\obj\\",
+      "projectPath": "C:\\MyFiles\\Code\\AspNet\\WaterRationingBackend\\WaterRationingBackend.Entities\\WaterRationingBackend.Entities.csproj",
+      "packagesPath": "C:\\Users\\trutsito\\.nuget\\packages\\",
+      "outputPath": "C:\\MyFiles\\Code\\AspNet\\WaterRationingBackend\\WaterRationingBackend.Entities\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-      ],
       "configFilePaths": [
-        "C:\\Users\\EUGENES\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\trutsito\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -1046,7 +1042,6 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\Users\\EUGENES\\Documents\\Visual Studio 2015\\NugPacks": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -1085,7 +1080,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
       }
     }
   }

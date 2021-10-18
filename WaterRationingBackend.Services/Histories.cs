@@ -41,10 +41,6 @@ namespace WaterRationingBackend.Services
             }
             else
             {
-                EntityFetcher entityFetcher = new EntityFetcher(_applicationDbContext);
-
-                usageHistory.SuburbId = (await entityFetcher.GetSuburbId(usageHistory.Suburb.Name)).Id;
-                usageHistory.Suburb = null;
                 await _applicationDbContext.AddAsync<UsageHistory>(usageHistory);
                 var result = await _applicationDbContext.SaveChangesAsync();
                 response = result >= 1 ? ClientResponse.Add(nameof(UsageHistory), ResponseInfo.Success) : ClientResponse.Add(nameof(UsageHistory), ResponseInfo.Error);

@@ -14,11 +14,8 @@ namespace WaterRationingBackend.Entities
         [Index(IsUnique = true)]
         public string Name { get ; set ; }
 
-        [ForeignKey(nameof(City))]
+        [ForeignKey(nameof(City.Id))]
         public int CityId { get; set; }
-
-        [Required, MaxLength(50)]
-        public City City { get; set; }
 
         public Density Density { get; set; }
 

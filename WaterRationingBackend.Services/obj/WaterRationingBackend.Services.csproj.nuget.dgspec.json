@@ -1,23 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\EUGENES\\source\\repos\\ASPCoreApplications\\WaterRationingBackend\\WaterRationingBackend.Services\\WaterRationingBackend.Services.csproj": {}
+    "C:\\MyFiles\\Code\\AspNet\\WaterRationingBackend\\WaterRationingBackend.Services\\WaterRationingBackend.Services.csproj": {}
   },
   "projects": {
-    "C:\\Users\\EUGENES\\source\\repos\\ASPCoreApplications\\WaterRationingBackend\\Helper\\Helper.csproj": {
+    "C:\\MyFiles\\Code\\AspNet\\WaterRationingBackend\\Helper\\Helper.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\EUGENES\\source\\repos\\ASPCoreApplications\\WaterRationingBackend\\Helper\\Helper.csproj",
+        "projectUniqueName": "C:\\MyFiles\\Code\\AspNet\\WaterRationingBackend\\Helper\\Helper.csproj",
         "projectName": "Helper",
-        "projectPath": "C:\\Users\\EUGENES\\source\\repos\\ASPCoreApplications\\WaterRationingBackend\\Helper\\Helper.csproj",
-        "packagesPath": "C:\\Users\\EUGENES\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\EUGENES\\source\\repos\\ASPCoreApplications\\WaterRationingBackend\\Helper\\obj\\",
+        "projectPath": "C:\\MyFiles\\Code\\AspNet\\WaterRationingBackend\\Helper\\Helper.csproj",
+        "packagesPath": "C:\\Users\\trutsito\\.nuget\\packages\\",
+        "outputPath": "C:\\MyFiles\\Code\\AspNet\\WaterRationingBackend\\Helper\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\EUGENES\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\trutsito\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -25,15 +22,14 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Users\\EUGENES\\Documents\\Visual Studio 2015\\NugPacks": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\EUGENES\\source\\repos\\ASPCoreApplications\\WaterRationingBackend\\WaterRationingBackend.Entities\\WaterRationingBackend.Entities.csproj": {
-                "projectPath": "C:\\Users\\EUGENES\\source\\repos\\ASPCoreApplications\\WaterRationingBackend\\WaterRationingBackend.Entities\\WaterRationingBackend.Entities.csproj"
+              "C:\\MyFiles\\Code\\AspNet\\WaterRationingBackend\\WaterRationingBackend.Entities\\WaterRationingBackend.Entities.csproj": {
+                "projectPath": "C:\\MyFiles\\Code\\AspNet\\WaterRationingBackend\\WaterRationingBackend.Entities\\WaterRationingBackend.Entities.csproj"
               }
             }
           }
@@ -76,24 +72,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\EUGENES\\source\\repos\\ASPCoreApplications\\WaterRationingBackend\\WaterRationingBackend.DataAccess\\WaterRationingBackend.DataAccess.csproj": {
+    "C:\\MyFiles\\Code\\AspNet\\WaterRationingBackend\\WaterRationingBackend.DataAccess\\WaterRationingBackend.DataAccess.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\EUGENES\\source\\repos\\ASPCoreApplications\\WaterRationingBackend\\WaterRationingBackend.DataAccess\\WaterRationingBackend.DataAccess.csproj",
+        "projectUniqueName": "C:\\MyFiles\\Code\\AspNet\\WaterRationingBackend\\WaterRationingBackend.DataAccess\\WaterRationingBackend.DataAccess.csproj",
         "projectName": "WaterRationingBackend.DataAccess",
-        "projectPath": "C:\\Users\\EUGENES\\source\\repos\\ASPCoreApplications\\WaterRationingBackend\\WaterRationingBackend.DataAccess\\WaterRationingBackend.DataAccess.csproj",
-        "packagesPath": "C:\\Users\\EUGENES\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\EUGENES\\source\\repos\\ASPCoreApplications\\WaterRationingBackend\\WaterRationingBackend.DataAccess\\obj\\",
+        "projectPath": "C:\\MyFiles\\Code\\AspNet\\WaterRationingBackend\\WaterRationingBackend.DataAccess\\WaterRationingBackend.DataAccess.csproj",
+        "packagesPath": "C:\\Users\\trutsito\\.nuget\\packages\\",
+        "outputPath": "C:\\MyFiles\\Code\\AspNet\\WaterRationingBackend\\WaterRationingBackend.DataAccess\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\EUGENES\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\trutsito\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -101,15 +94,14 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Users\\EUGENES\\Documents\\Visual Studio 2015\\NugPacks": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\EUGENES\\source\\repos\\ASPCoreApplications\\WaterRationingBackend\\WaterRationingBackend.Entities\\WaterRationingBackend.Entities.csproj": {
-                "projectPath": "C:\\Users\\EUGENES\\source\\repos\\ASPCoreApplications\\WaterRationingBackend\\WaterRationingBackend.Entities\\WaterRationingBackend.Entities.csproj"
+              "C:\\MyFiles\\Code\\AspNet\\WaterRationingBackend\\WaterRationingBackend.Entities\\WaterRationingBackend.Entities.csproj": {
+                "projectPath": "C:\\MyFiles\\Code\\AspNet\\WaterRationingBackend\\WaterRationingBackend.Entities\\WaterRationingBackend.Entities.csproj"
               }
             }
           }
@@ -164,24 +156,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\EUGENES\\source\\repos\\ASPCoreApplications\\WaterRationingBackend\\WaterRationingBackend.Entities\\WaterRationingBackend.Entities.csproj": {
+    "C:\\MyFiles\\Code\\AspNet\\WaterRationingBackend\\WaterRationingBackend.Entities\\WaterRationingBackend.Entities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\EUGENES\\source\\repos\\ASPCoreApplications\\WaterRationingBackend\\WaterRationingBackend.Entities\\WaterRationingBackend.Entities.csproj",
+        "projectUniqueName": "C:\\MyFiles\\Code\\AspNet\\WaterRationingBackend\\WaterRationingBackend.Entities\\WaterRationingBackend.Entities.csproj",
         "projectName": "WaterRationingBackend.Entities",
-        "projectPath": "C:\\Users\\EUGENES\\source\\repos\\ASPCoreApplications\\WaterRationingBackend\\WaterRationingBackend.Entities\\WaterRationingBackend.Entities.csproj",
-        "packagesPath": "C:\\Users\\EUGENES\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\EUGENES\\source\\repos\\ASPCoreApplications\\WaterRationingBackend\\WaterRationingBackend.Entities\\obj\\",
+        "projectPath": "C:\\MyFiles\\Code\\AspNet\\WaterRationingBackend\\WaterRationingBackend.Entities\\WaterRationingBackend.Entities.csproj",
+        "packagesPath": "C:\\Users\\trutsito\\.nuget\\packages\\",
+        "outputPath": "C:\\MyFiles\\Code\\AspNet\\WaterRationingBackend\\WaterRationingBackend.Entities\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\EUGENES\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\trutsito\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -189,7 +178,6 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Users\\EUGENES\\Documents\\Visual Studio 2015\\NugPacks": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -228,24 +216,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\EUGENES\\source\\repos\\ASPCoreApplications\\WaterRationingBackend\\WaterRationingBackend.Services\\WaterRationingBackend.Services.csproj": {
+    "C:\\MyFiles\\Code\\AspNet\\WaterRationingBackend\\WaterRationingBackend.Services\\WaterRationingBackend.Services.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\EUGENES\\source\\repos\\ASPCoreApplications\\WaterRationingBackend\\WaterRationingBackend.Services\\WaterRationingBackend.Services.csproj",
+        "projectUniqueName": "C:\\MyFiles\\Code\\AspNet\\WaterRationingBackend\\WaterRationingBackend.Services\\WaterRationingBackend.Services.csproj",
         "projectName": "WaterRationingBackend.Services",
-        "projectPath": "C:\\Users\\EUGENES\\source\\repos\\ASPCoreApplications\\WaterRationingBackend\\WaterRationingBackend.Services\\WaterRationingBackend.Services.csproj",
-        "packagesPath": "C:\\Users\\EUGENES\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\EUGENES\\source\\repos\\ASPCoreApplications\\WaterRationingBackend\\WaterRationingBackend.Services\\obj\\",
+        "projectPath": "C:\\MyFiles\\Code\\AspNet\\WaterRationingBackend\\WaterRationingBackend.Services\\WaterRationingBackend.Services.csproj",
+        "packagesPath": "C:\\Users\\trutsito\\.nuget\\packages\\",
+        "outputPath": "C:\\MyFiles\\Code\\AspNet\\WaterRationingBackend\\WaterRationingBackend.Services\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\EUGENES\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\trutsito\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -253,18 +238,17 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Users\\EUGENES\\Documents\\Visual Studio 2015\\NugPacks": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\EUGENES\\source\\repos\\ASPCoreApplications\\WaterRationingBackend\\Helper\\Helper.csproj": {
-                "projectPath": "C:\\Users\\EUGENES\\source\\repos\\ASPCoreApplications\\WaterRationingBackend\\Helper\\Helper.csproj"
+              "C:\\MyFiles\\Code\\AspNet\\WaterRationingBackend\\Helper\\Helper.csproj": {
+                "projectPath": "C:\\MyFiles\\Code\\AspNet\\WaterRationingBackend\\Helper\\Helper.csproj"
               },
-              "C:\\Users\\EUGENES\\source\\repos\\ASPCoreApplications\\WaterRationingBackend\\WaterRationingBackend.DataAccess\\WaterRationingBackend.DataAccess.csproj": {
-                "projectPath": "C:\\Users\\EUGENES\\source\\repos\\ASPCoreApplications\\WaterRationingBackend\\WaterRationingBackend.DataAccess\\WaterRationingBackend.DataAccess.csproj"
+              "C:\\MyFiles\\Code\\AspNet\\WaterRationingBackend\\WaterRationingBackend.DataAccess\\WaterRationingBackend.DataAccess.csproj": {
+                "projectPath": "C:\\MyFiles\\Code\\AspNet\\WaterRationingBackend\\WaterRationingBackend.DataAccess\\WaterRationingBackend.DataAccess.csproj"
               }
             }
           }
@@ -299,7 +283,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
         }
       }
     }

@@ -9,10 +9,8 @@ namespace WaterRationingBackend.Entities
         [Key]
         public int Id { get; set; }
 
-        [ForeignKey(nameof(Suburb))]
+        [ForeignKey(nameof(Suburb.Id))]
         public int SuburbId { get; set; }
-
-        public Suburb Suburb { get; set; }
 
         public DateTime Day { get; set; }
 

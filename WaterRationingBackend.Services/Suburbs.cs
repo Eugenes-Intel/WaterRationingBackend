@@ -41,10 +41,6 @@ namespace WaterRationingBackend.Services
             }
             else
             {
-                EntityFetcher entityFetcher = new EntityFetcher(_applicationDbContext);
-
-                suburb.CityId = (await entityFetcher.GetCityId(suburb.City.Name)).Id;
-                suburb.City = null;
                 await _applicationDbContext.AddAsync<Suburb>(suburb);
                 var result = await _applicationDbContext.SaveChangesAsync();
                 response = result >= 1 ? ClientResponse.Add(suburb.Name, ResponseInfo.Success) : ClientResponse.Add(suburb.Name, ResponseInfo.Error);

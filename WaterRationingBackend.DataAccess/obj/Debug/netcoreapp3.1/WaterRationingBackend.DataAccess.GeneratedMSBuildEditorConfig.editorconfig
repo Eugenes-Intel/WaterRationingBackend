@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = WaterRationingBackend.DataAccess
+build_property.ProjectDir = C:\MyFiles\Code\AspNet\WaterRationingBackend\WaterRationingBackend.DataAccess\

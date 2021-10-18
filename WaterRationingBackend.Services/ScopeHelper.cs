@@ -30,7 +30,6 @@ namespace WaterRationingBackend.Services
                 _cities => Entity.City,
                 _suburbs => Entity.Suburb,
                 _histories => Entity.History,
-                _ => throw new DataMisalignedException("data is of wrong format"),
             };
         }
     }
