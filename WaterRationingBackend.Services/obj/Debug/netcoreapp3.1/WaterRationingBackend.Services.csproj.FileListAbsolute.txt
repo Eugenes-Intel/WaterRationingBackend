@@ -36,3 +36,4 @@ C:\MyFiles\Code\AspNet\WaterRationingBackend\WaterRationingBackend.Services\bin\
 C:\MyFiles\Code\AspNet\WaterRationingBackend\WaterRationingBackend.Services\bin\Debug\netcoreapp3.1\WaterRationingBackend.DataAccess.pdb
 C:\MyFiles\Code\AspNet\WaterRationingBackend\WaterRationingBackend.Services\bin\Debug\netcoreapp3.1\WaterRationingBackend.Entities.pdb
 C:\MyFiles\Code\AspNet\WaterRationingBackend\WaterRationingBackend.Services\obj\Debug\netcoreapp3.1\WaterRationingBackend.Services.genruntimeconfig.cache
+C:\MyFiles\Code\AspNet\WaterRationingBackend\WaterRationingBackend.Services\obj\Debug\netcoreapp3.1\WaterRationingBackend.Services.csproj.CopyComplete
