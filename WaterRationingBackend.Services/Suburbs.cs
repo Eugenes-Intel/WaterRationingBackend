@@ -22,10 +22,20 @@ namespace WaterRationingBackend.Services
         {
             return await _applicationDbContext.Suburbs.AsNoTracking().ToListAsync<Suburb>();
         }
+        public async Task<IEnumerable<IData>> GetWithAsync()
+        {
+            return await _applicationDbContext.Suburbs.Include((s) => s.UsageHistory).ToListAsync();
+        }
+
 
         public async Task<IData> GetAsync(int id)
         {
             return await _applicationDbContext.Suburbs.AsNoTracking().Where((suburb) => suburb.Id == id).FirstOrDefaultAsync();
+        }
+
+        public async Task<IData> GetWithAsync(int id)
+        {
+            return await _applicationDbContext.Suburbs.Where((s) => s.Id == id).Include((s) => s.UsageHistory).SingleAsync();
         }
 
         public async Task<string> AddAsync(object data)
@@ -97,5 +107,7 @@ namespace WaterRationingBackend.Services
             }
             return response;
         }
+
+        
     }
 }

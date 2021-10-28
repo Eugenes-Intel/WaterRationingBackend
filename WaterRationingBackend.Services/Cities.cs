@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 using WaterRationingBackend.DataAccess;
 using WaterRationingBackend.Entities;
 using WaterRationingBackend.Services.Interfaces;
+//using System.Data.Entity;
 
 namespace WaterRationingBackend.Services
 {
@@ -20,10 +21,20 @@ namespace WaterRationingBackend.Services
 
         public async Task<IEnumerable<IData>> GetAsync()
         {
-            return await _applicationDbContext.Cities.AsNoTracking().ToListAsync<City>();
+            //return await _applicationDbContext.Cities.AsNoTracking().ToListAsync<City>();
+            return await _applicationDbContext.Cities.Include((c) => c.Suburbs).ThenInclude((s) => s.UsageHistory).ToListAsync();
+        }
+        public async Task<IEnumerable<IData>> GetWithAsync()
+        {
+            return await _applicationDbContext.Cities.Include((c) => c.Suburbs).ThenInclude((s) => s.UsageHistory).ToListAsync();
         }
 
         public async Task<IData> GetAsync(int id)
+        {
+            return await _applicationDbContext.Cities.AsNoTracking().Where((city) => city.Id == id).FirstOrDefaultAsync();
+        }
+
+        public async Task<IData> GetWithAsync(int id)
         {
             var city = await _applicationDbContext.Cities.AsNoTracking().Where((city) => city.Id == id).FirstOrDefaultAsync();
             return city;
@@ -67,7 +78,7 @@ namespace WaterRationingBackend.Services
                 }
                 else
                 {
-                    _applicationDbContext.Entry<City>(city).State = EntityState.Modified;
+                    _applicationDbContext.Entry<City>(city).State = (Microsoft.EntityFrameworkCore.EntityState)EntityState.Modified;
                     var result = await _applicationDbContext.SaveChangesAsync();
                     response = result >= 1 ? ClientResponse.Update(city.Name, ResponseInfo.Success) : ClientResponse.Update(city.Name, ResponseInfo.Error);
                 }
@@ -88,7 +99,7 @@ namespace WaterRationingBackend.Services
 
             if (city != null)
             {
-                _applicationDbContext.Entry<City>(city).State = EntityState.Deleted;
+                _applicationDbContext.Entry<City>(city).State = (Microsoft.EntityFrameworkCore.EntityState)EntityState.Deleted;
                 var result = await _applicationDbContext.SaveChangesAsync();
                 response = result >= 1 ? ClientResponse.Delete(city.Name, ResponseInfo.Success) : ClientResponse.Delete(city.Name, ResponseInfo.Error);
             }

@@ -306,4 +306,7 @@ C:\MyFiles\Code\AspNet\WaterRationingBackend\WaterRationingBackend\obj\Debug\net
 C:\MyFiles\Code\AspNet\WaterRationingBackend\WaterRationingBackend\obj\Debug\netcoreapp3.1\scopedcss\bundle\WaterRationingBackend.styles.css
 C:\MyFiles\Code\AspNet\WaterRationingBackend\WaterRationingBackend\obj\Debug\netcoreapp3.1\WaterRationingBackend.RazorTargetAssemblyInfo.cache
 C:\MyFiles\Code\AspNet\WaterRationingBackend\WaterRationingBackend\obj\Debug\netcoreapp3.1\WaterRationingBackend.genruntimeconfig.cache
+C:\MyFiles\Code\AspNet\WaterRationingBackend\WaterRationingBackend\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+C:\MyFiles\Code\AspNet\WaterRationingBackend\WaterRationingBackend\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\MyFiles\Code\AspNet\WaterRationingBackend\WaterRationingBackend\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
 C:\MyFiles\Code\AspNet\WaterRationingBackend\WaterRationingBackend\obj\Debug\netcoreapp3.1\WaterRationingBackend.csproj.CopyComplete

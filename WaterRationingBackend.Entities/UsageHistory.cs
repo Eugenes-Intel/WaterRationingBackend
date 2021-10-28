@@ -9,11 +9,14 @@ namespace WaterRationingBackend.Entities
         [Key]
         public int Id { get; set; }
 
-        [ForeignKey(nameof(Suburb.Id))]
+        [ForeignKey(nameof(Suburb))]
         public int SuburbId { get; set; }
+
+        public virtual Suburb Suburb { get; set; }
 
         public DateTime Day { get; set; }
 
         public float Usage { get; set; }
+
     }
 }

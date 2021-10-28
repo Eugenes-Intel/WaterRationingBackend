@@ -97,5 +97,15 @@ namespace WaterRationingBackend.Services
             }
             return response;
         }
+
+        public Task<IEnumerable<IData>> GetWithAsync()
+        {
+            throw new System.NotImplementedException();
+        }
+
+        public Task<IData> GetWithAsync(int id)
+        {
+            throw new System.NotImplementedException();
+        }
     }
 }

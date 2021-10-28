@@ -13,7 +13,6 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 using WaterRationingBackend.DataAccess;
-using WaterRationingBackend.Entities;
 using WaterRationingBackend.Services;
 using WaterRationingBackend.Services.Interfaces;
 
@@ -55,7 +54,10 @@ namespace WaterRationingBackend
             services.AddScoped<ICollator, Collator>();
             services.AddScoped<IScopeHelper, ScopeHelper>();
             services.AddSingleton<IHttpContextAccessor, HttpContextAccessor>();
-            services.AddControllers();
+            services.AddControllers().AddNewtonsoftJson((options) =>
+            {
+                options.SerializerSettings.ReferenceLoopHandling = Newtonsoft.Json.ReferenceLoopHandling.Ignore;
+            });
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.

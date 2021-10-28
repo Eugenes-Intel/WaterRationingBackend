@@ -14,14 +14,25 @@ namespace WaterRationingBackend.Services
             _entityDecider = entityDecider;
         }
 
+
         public Task<IEnumerable<IData>> Get()
         {
             return  _entityDecider.Decided().GetAsync();
         }
 
+        public Task<IEnumerable<IData>> GetWith()
+        {
+            return _entityDecider.Decided().GetWithAsync();
+        }
+
         public Task<IData> Get(int id)
         {
             return _entityDecider.Decided().GetAsync(id);
+        }
+
+        public Task<IData> GetWith(int id)
+        {
+            return _entityDecider.Decided().GetWithAsync(id);
         }
 
         public Task<string> Post(object data)

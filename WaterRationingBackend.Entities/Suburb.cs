@@ -14,10 +14,12 @@ namespace WaterRationingBackend.Entities
         [Index(IsUnique = true)]
         public string Name { get ; set ; }
 
-        [ForeignKey(nameof(City.Id))]
+        [ForeignKey(nameof(City))]
         public int CityId { get; set; }
 
-        public Density Density { get; set; }
+        public virtual City City { get; set; }
+
+        public virtual Density Density { get; set; }
 
         public float Population { get; set; }
 
@@ -25,6 +27,6 @@ namespace WaterRationingBackend.Entities
 
         public float DailyAverageUsage { get; set; }
         
-        public IEnumerable<UsageHistory> UsageHistory { get; set; }
+        public virtual ICollection<UsageHistory> UsageHistory { get; set; }
     }
 }

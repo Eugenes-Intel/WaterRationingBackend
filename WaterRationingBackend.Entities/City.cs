@@ -15,6 +15,6 @@ namespace WaterRationingBackend.Entities
         [Index(IsUnique =true)]
         public string Name { get; set; }
 
-        public IEnumerable<Suburb> Suburbs { get; set; }
+        public virtual ICollection<Suburb> Suburbs { get; set; }
     }
 }
